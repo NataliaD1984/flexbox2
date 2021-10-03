@@ -1,0 +1,42 @@
+*{
+     
+     padding: 0px;
+     margin:0px;
+}
+header{
+      background-color: green;
+      width: 100%;
+      height: 100px;
+      margin: 0px
+
+}
+nav{
+      background-color: yellow;
+      width: 100%;
+      height: 50px;
+}  
+.titulo1{
+      width: 50%;
+      height: 500px;
+      background-color: turquoise;
+}
+.titulo2{
+      width: 50%;
+      height: 500px;
+      background-color: yellowgreen;
+}
+div{
+      background-color: teal;
+}
+.cajapadre{
+      flex-direction: row;
+      display: flex;
+      width: 100%;
+      height: 100%;
+      background-color: violet;
+}
+footer{
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      background-color: tomato;
+      height: 50%;
+}
